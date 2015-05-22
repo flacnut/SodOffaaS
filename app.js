@@ -1,4 +1,4 @@
-var PORT = (process.env.VMC_APP_PORT || 3000)
+var PORT = (process.env.PORT || 3000)
   , HOST = (process.env.VCAP_APP_HOST || 'localhost');
 
 var fs = require('fs')
