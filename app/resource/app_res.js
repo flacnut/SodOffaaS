@@ -7,6 +7,6 @@ var AppRes = module.exports = BaseRes.extend({
   },
 
   all: function (req, res) {
-    res.render('app/index');
+    res.render('app/documentation');
   }
 });
