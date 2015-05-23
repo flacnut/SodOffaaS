@@ -1,6 +1,6 @@
 {
   "templates" : {
-    "SodOff" : "Sod off,%s,you old wanker!",
+    "SodOff" : "Sod off, %s, you old wanker!",
     "BuggerOff": "Bugger off %s!"
   }
 }
